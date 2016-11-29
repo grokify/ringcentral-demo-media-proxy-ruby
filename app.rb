@@ -1,5 +1,4 @@
 #!ruby
-
 require 'faraday'
 require 'sinatra'
 require 'ringcentral_sdk'
