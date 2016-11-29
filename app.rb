@@ -27,5 +27,3 @@ get %r{/(([\w.]+)/restapi/v1.0/account/[\w]+/extension/[\w]+/message-store/[\w]+
   res.body
 end
 
-
-#ringcentral-demo-sm
